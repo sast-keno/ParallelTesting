@@ -60,7 +60,7 @@ pytest .\testlauf5.py --html=report.html -n 4
     docker-compose -f <yaml-file> down
     ```
 
-- Um den Titel des generierten Reports zu bestimmen, kann in der Datei "conftest.py" eine belieber Titel übergeben werden (Zeile 2).
+- Um den Titel des generierten Reports zu bestimmen, kann in der Datei "conftest.py" eine beliebiger Titel übergeben werden (Zeile 2).
 
 - Das Grid Dashboard kann über ```http://localhost:4444``` eingesehen werden
 
